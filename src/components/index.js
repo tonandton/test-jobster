@@ -1,3 +1,4 @@
 import Logo from "./logo";
+import FormRow from "./FormRow";
 
-export { Logo };
+export { Logo, FormRow };
