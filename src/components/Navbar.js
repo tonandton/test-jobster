@@ -34,7 +34,6 @@ const Navbar = () => {
                         {user?.name}
                         <FaCaretDown />
                     </button>
-                    state
                     <div
                         className={
                             showLogout ? "dropdown show-dropdown" : "dropdown"
